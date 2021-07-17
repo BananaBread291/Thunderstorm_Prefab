@@ -14,5 +14,3 @@
 <p align="center">-VRChat SDK 3-</p>
 <p align="center">-UdonSharp-</p>
 <p align="center">If you find any bugs/problems send me a Discord BananaBread#7393</p>
-
-<p align="center">Copyright (c) 2021 BananaBread</p>
