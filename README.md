@@ -2,7 +2,7 @@
 <h1 align="center">Thunder Prefab</h1>
 <p  align="center">it's a prefab that create a thunderstorm with lights and sounds.</p>
 <p  align="center">
-<a href="https://vrchat.com/home/launch?worldId=wrld_ded1ecae-2a8b-4d03-85e6-7aee212c8790">World with this prefab</a>
+<a href="https://vrch.at/richmond-erwinhazel-66ce6">World with this prefab</a>
 </p>
 <p  align="center">The sound of the thunder is no the same on the world.</p>
 
